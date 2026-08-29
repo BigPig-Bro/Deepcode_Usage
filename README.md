@@ -2,7 +2,7 @@
 
 一个透明的桌面小组件，实时显示 Deepcode（deepcode.vegamo.cn）订阅套餐用量，并附带本地会话的 token 消耗统计。
 
-![image-20260829121542703](C:/Users/BigPig/AppData/Roaming/Typora/typora-user-images/image-20260829121542703.png)
+![Deepcode 用量小组件](md_img/1.png)
 
 ---
 
